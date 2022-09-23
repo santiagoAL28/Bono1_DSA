@@ -1,2 +1,3 @@
-# Bono1_DSA
-This is a repository for the subject applied daata science, part of the master in Information Engineering
+# Data Quality tutorial
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datascience-uniandes/data-quality-tutorial/)
